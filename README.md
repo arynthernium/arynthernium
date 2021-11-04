@@ -2,7 +2,8 @@
 
 # a terrible developer? whoa.
 
-currently learning: C++! and it's not terrible! it's actually not too complicated, shares a lot of syntax with js (please don't kill me it makes sense to me)
+currently learning: C#, taking a college course.
+<sup>(yeah, I was learning C++, but I realized when the course started that was not what the course I'm taking was teaching, so I learned C++ for nothing)</sup>
 
 currently working on:
 - winUI ([repo](https://github.com/arynthernium/winUI), [hosted](https://aryn.dev/winui))
