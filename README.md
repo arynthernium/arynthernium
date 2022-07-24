@@ -7,7 +7,7 @@ comfortable in:
 - C#
 
 currently working on:
-- win11 ([repo](https://github.com/arynthernium/win11), [hosted](https://aryn.dev/win11))
+- win11 ([repo](https://github.com/arynthernium/11), [hosted dev version](https://aryn.dev/11)) [hosted stable version](https://aryn.dev/repo/11)
 - d.js-bot ([repo](https://github.com/arynthernium/d.js-bot))
 - my website ([repo v1](https://github.com/arynthernium/website-v1), [repo v2](https://github.com/arynthernium/website-v2), [hosted](https://aryn.dev/))
 
